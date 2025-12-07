@@ -19,3 +19,6 @@ git status
 git add
 git commit
 ```
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
